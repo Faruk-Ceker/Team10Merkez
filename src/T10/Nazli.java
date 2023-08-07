@@ -1,11 +1,7 @@
 package T10;
 
-public class Merhaba {
+public class Nazli {
     public static void main(String[] args) {
-
-
-
-
-
+        System.out.println("merhaba");
     }
 }
